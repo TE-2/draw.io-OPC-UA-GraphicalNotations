@@ -1,7 +1,7 @@
 # draw.io-OPC-UA-GraphicalNotations
 
 ## How to Use:
-1. Download `OPC UA - Graphical Notation.xml`
+1. Download `OPCUA-GraphicalNotation.xml`
 2. Open draw.io and import XML via `File`->`Open Library from`
 
 ## According to
